@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Link Tracker</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="aaaa">lf someone decides to use our service, this page is used to info rmvisitors of our policies regarding the collection, use, and disclosure ofpersonal information.\n</string>
+    <string name="asada">Usage data: The type of mobile device you are using, the IP address of the mobile device, the mobile operating system, the type of mobileinternet browser you are using, device identifier, and other diagnosticdata.\n Used to monitor our application for potential issues in order to provideyou with better services.\nUsed to promote our services and help us analyze how to use them.\nWhen using our services, we may collect certain personally identifiableinformation that can be used to contact or identify you.\n Includingbut not limited to the email address you used to contact us and yourcontact information.\n Jsed to contact you when necessary Your deviceID Used for advertising and marketing</string>
+    <string name="sfdbsd">in order to promote our services and help us analyze how to use them we may collaborate with third-party companies and individuals who have access to their personal information.\n lf you need to understandtheir privacy policy, please visit their website.\nWhen we make business adjustments, we will disclose your information.\n(Reorganization, merger, business transfer, bankruptcy merger) When required by law (implementing legalprovisions Your device ID
+Used for advertising and marketing</string>
+    <string name="smxc">in order to promote our services and help us analvze how to use themwe may collaborate with third-party companies and individuals whonave access to their personal information.\n lf you need to understandtheir privacy policy, please visit their website.\n When we make business adjustments, we will disclose yourinformation.\n(Reorganization, merger, business transfer, bankruptcymerger) When required by law (implementing legal provisions)</string>
+    <string name="dfsd">We only provide services for the age group of 13 and above.\nlf you area quardian and are aware that such individuals have provided personainformation,please contact us for action.\n</string>
+    <string name="fsadfd">We may update these terms and conditions.\n The updated content isnotified on this page</string>
+    <string name="vcbnskvbs">Please add at least one record to unlock statistics</string>
+    <string name="asblas"><![CDATA[Systolic < 90, or diastolic < 60]]></string>
+
+    <string name="retrun_home">Return Home</string>
+
+    <string name="facebook_app_id">1390692681715364</string>
+    <string name="facebook_client_token">a4a41a704ae488807f1094548ba6c7e6</string>
+</resources>
